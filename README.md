@@ -23,7 +23,7 @@ auto -e somekey hello
 ```
 vig -d somekey world
 ```
-Some ciphers don't need the encryption or decryption flags
+Some cyphers don't need the encryption or decryption flags
 ```
 rot13 sometext
 ```
