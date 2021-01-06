@@ -1,5 +1,6 @@
 # cypher-session
 A collection of classical cyphers that encrypts or decrypts messages.
+
 ![Screenshot](https://github.com/binarynil/cypher-session/raw/main/gif/cyphergif.gif)
 
 ### Cyphers
